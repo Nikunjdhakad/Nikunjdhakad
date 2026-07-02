@@ -36,7 +36,7 @@ I'm currently a student who loves to build, learn, and explore the world of soft
 ## 📫 Connect with Me
 
 - [GitHub](https://github.com/Nikunjdhakad)
-- (Add your LinkedIn or other socials here if you'd like!)
+- 
 
 ---
 

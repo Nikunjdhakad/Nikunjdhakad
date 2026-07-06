@@ -1,49 +1,37 @@
-# Hi there, I'm Nikunj Dhakad! 👋
+<h1 align="center">Hi 👋, I'm Nikunj Dhakad</h1>
+<h3 align="center">A passionate backend developer from India</h3>
 
-🎓 **Student & Aspiring Developer**  
-💻 **Passionate about coding, cloud, and building new things**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikunjdhakad&label=Profile%20views&color=0e75b6&style=flat" alt="nikunjdhakad" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikunjdhakad" alt="nikunjdhakad" /></a> </p>
 
-## 🚀 About Me
+<p align="left"> <a href="https://twitter.com/nikunjdhakad" target="blank"><img src="https://img.shields.io/twitter/follow/nikunjdhakad?logo=twitter&style=for-the-badge" alt="nikunjdhakad" /></a> </p>
 
-I'm currently a student who loves to build, learn, and explore the world of software development! I enjoy working with cloud-native technologies, automation, and web development. Every project is an opportunity to learn something new.
+- 🌱 I’m currently learning **spring boot framework, DSA**
 
----
+- 👯 I’m looking to collaborate on **open source projects**
 
-## 🛠️ Skills & Technologies
+- 🤝 I’m looking for help with **collaborate**
 
-- **Languages:** Python, JavaScript
-- **Web Development:** HTML, CSS, JavaScript
-- **Cloud & DevOps:** GitHub Actions, Google Cloud Build, Kubernetes (learning)
-- **Version Control:** Git & GitHub
+- 💬 Ask me about **Prompting 🫡**
 
----
+- 📫 How to reach me **nikunjdhakad@gmail.com**
 
-## 📦 Featured Projects
+- ⚡ Fun fact **My code works... eventually.🎯**
 
-### [hello-cloudbuild-env](https://github.com/Nikunjdhakad/hello-cloudbuild-env) & [hello-cloudbuild-app](https://github.com/Nikunjdhakad/hello-cloudbuild-app)
-> Example projects for GitOps-style Continuous Delivery with Cloud Build and Kubernetes Engine.  
-> - Automates CI/CD with Cloud Build  
-> - Uses GitOps principles for managing environments as code  
-> - Demonstrates rollbacks, automated deployments, and manifest management
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nikunjdhakad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikunjdhakad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikunjdhakad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikunjdhakad" height="30" width="40" /></a>
+<a href="https://kaggle.com/nikunjdhakad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikunjdhakad" height="30" width="40" /></a>
+<a href="https://instagram.com/nikunjdhakad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikunjdhakad_" height="30" width="40" /></a>
+</p>
 
-### [SIH_2025](https://github.com/Nikunjdhakad/SIH_2025)  
-> Check out this repository for my ongoing work and learning journey!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikunjdhakad&show_icons=true&locale=en&layout=compact" alt="nikunjdhakad" /></p>
 
-## 📫 Connect with Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikunjdhakad&show_icons=true&locale=en" alt="nikunjdhakad" /></p>
 
-- [GitHub](https://github.com/Nikunjdhakad)
-- 
-
----
-
-<!--
-✨ Fun Fact: I’m always open to collaborating on open-source projects and learning new technologies!
--->
-
----
-
-*Thanks for visiting my profile! Let's build something amazing together.* 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikunjdhakad&" alt="nikunjdhakad" /></p>
